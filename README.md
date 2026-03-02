@@ -1,4 +1,4 @@
 # Ibtesam-demo
-Thiss is my First Git Repository
+This is my First Git Repository
 <br>
-Author - Syed Hassan 
+Author - Syed Hassan Ibtesam
